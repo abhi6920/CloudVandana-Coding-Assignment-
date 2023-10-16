@@ -79,7 +79,7 @@ Create a survey form with Fields; First Name, Last Name, Date of Birth, Country 
 </body>
 </html>
 
-  CSS:
+CSS:
 
 .form-container {
     max-width: 500px;
